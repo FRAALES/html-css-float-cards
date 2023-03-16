@@ -7,9 +7,9 @@
 
 h1 {
     color: rgb(234, 99, 121);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Fredoka', sans-serif;
     text-align: center;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 
@@ -17,4 +17,5 @@ h1 {
 p {
     text-align: center;
     margin: 50px;
+    font-family: 'Fredoka', sans-serif;    
 }
