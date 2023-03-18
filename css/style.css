@@ -1,31 +1,12 @@
-/* Regole generali */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+body {
+    font-family: 'Fredoka'; sans-serif;
 }
-
-.center-block {
-    width: 80%;
-    margin: 15px auto;
-}
-
-/* Header */
 
 h1 {
-    color: rgb(234, 99, 121);
-    font-family: 'Fredoka', sans-serif;
+    margin: 50px 0;
     text-align: center;
-    margin-top: 20px;
+    font-size: 40px;
+    color: #e53170;
+
 }
 
-/* Main */
-
-p {
-    text-align: center;
-    font-family: 'Fredoka', sans-serif;    
-}
-
-img {
-    float: left;
-}
